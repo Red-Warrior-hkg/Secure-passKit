@@ -1,4 +1,4 @@
-#  Secure PassKit
+# 🔐 Secure PassKit
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Educational](https://img.shields.io/badge/Purpose-Educational-brightgreen?style=for-the-badge)
@@ -61,7 +61,7 @@ python secure_passkit.py
 # Linux / Mac
 python3 secure_passkit.py
 ```
-| Tip: Use Ctrl + C to exit at any time if needed.
+> 💡 Tip: Press `Ctrl + C` to exit at any time.
 
 ## 🚀 How to Use Secure PassKit
 Run ``secure_passkit.py``. You will see a banner with tool name, author, and the tool version.
@@ -86,15 +86,16 @@ After each operation, press Enter to return to the menu.
 
 Select 7 to exit the program.
 
-## Terminal demo
-After following all the steps correctly, you should see something like this in the terminal:
+## Terminal demo 💻
+After following all the steps correctly, you should see a screen like this in the terminal:
 
 <img width="1102" height="439" alt="Capture d&#39;écran 2026-03-20 181146" src="https://github.com/user-attachments/assets/2c5b56e1-9478-4fd4-a5c8-dac6eb9fb4f0" />
+
 ## 🔗 Useful Links
 
 My GitHub Profile:  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Red-Warrior-hkg)
 
-💻 Install Python 3.8+ from the [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+🐍 Install Python 3.8+ from the [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 [![Hashlib Docs](https://img.shields.io/badge/Hashlib-007ACC?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/hashlib.html)
 
@@ -109,3 +110,5 @@ My GitHub Profile:  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=
 [![GitHub Docs](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 
 [![CTFlearn](https://img.shields.io/badge/CTF-Learn-orange?style=for-the-badge&logo=hackthebox&logoColor=white)](https://ctflearn.com/)
+
+# Happy coding! 🐍💻
