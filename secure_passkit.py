@@ -101,7 +101,7 @@ def generate_uuid():
 # ------------------------------------------------------------
 
 def show_intro():
-    print("""Issued by: \033[91mAhmed Mahine\033[0m
+    print("""Issued by: \033[91mAhmed \033[0m
 Date:      2026-03-20   16:08:14 UTC
 Version:   1.4 
 Learn, experiment, and strengthen your cybersecurity skills!
