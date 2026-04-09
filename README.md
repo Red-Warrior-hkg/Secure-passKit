@@ -15,9 +15,9 @@
 Secure PassKit is a **Python‑based toolkit** designed to teach beginners the fundamentals of cybersecurity.  
 It includes practical exercises for **password strength, encryption, hashing, and unique ID generation**, all **offline and safe**.
 
-| 🔹 Author      | Ahmed Mahine |
+| 🔹 Author      | Ahmed    |
 |---------------|-------------|
-| 🔹 Version     | 1.4         |
+| 🔹 Version     |      1.4  |
 | 🔹 Date        | 20/03/2026  |
 
 ---
