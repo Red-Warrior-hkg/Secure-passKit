@@ -89,7 +89,7 @@ Select 7 to exit the program.
 ## Terminal demo 💻
 After following all the steps correctly, you should see a screen like this in the terminal:
 
-<img width="1102" height="439" alt="Capture d&#39;écran 2026-03-20 181146" src="https://github.com/user-attachments/assets/2c5b56e1-9478-4fd4-a5c8-dac6eb9fb4f0" />
+<img width="991" height="439" alt="567007358-2c5b56e1-9478-4fd4-a5c8-dac6eb9fb4f0" src="https://github.com/user-attachments/assets/38262765-11a0-4de5-af12-be37dbd58b84" />
 
 ## 🔗 Useful Links
 
